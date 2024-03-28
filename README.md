@@ -1,1 +1,1 @@
-# to run write `.\gradlew.bat 'filename'` 
+# to run write `.\gradlew.bat --args "<filename>"` 
