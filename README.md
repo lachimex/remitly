@@ -8,4 +8,4 @@
 ```
 ./gradlew run --args "file.json"
 ```
-### `<filename>` is name of json file in root directory or provide full absolute path
+### `file.json` is name of json file in root directory or you can provide absolute path to json file
